@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<usuario>
+	<id>10</id>
+	<titular>Edgar Brião</titular>
+    <email>edgar.b@abc.com</email>
+    <endereco>Rua Severino Captruoso 123</endereco>
+</usuario>
